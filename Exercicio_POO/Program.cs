@@ -25,22 +25,18 @@ p3.Nome = Console.ReadLine();
 Console.WriteLine("Idade da 3a pessoa");
 p3.Idade = Convert.ToInt32(Console.ReadLine());
 
-int maior = 0;
 
 if (p1.Idade > p2.Idade && p1.Idade > p3.Idade)
 {
-    maior = p1.Idade;
     Console.WriteLine("A pessoa que tem...");
     p1.ExibirDados();
 }
 else if (p2.Idade > p1.Idade && p2.Idade > p3.Idade)
 {
-    maior = p2.Idade;
      Console.WriteLine("A pessoa que tem...");
     p2.ExibirDados();
 }else{
 
-    maior = p3.Idade;
      Console.WriteLine("A pessoa que tem...");
     p3.ExibirDados();
 }

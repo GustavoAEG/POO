@@ -1,0 +1,15 @@
+D:\DIO\Exercicio_POO\bin\Debug\net6.0\Exercicio_POO.exe
+D:\DIO\Exercicio_POO\bin\Debug\net6.0\Exercicio_POO.deps.json
+D:\DIO\Exercicio_POO\bin\Debug\net6.0\Exercicio_POO.runtimeconfig.json
+D:\DIO\Exercicio_POO\bin\Debug\net6.0\Exercicio_POO.dll
+D:\DIO\Exercicio_POO\bin\Debug\net6.0\Exercicio_POO.pdb
+D:\DIO\Exercicio_POO\obj\Debug\net6.0\Exercicio_POO.csproj.AssemblyReference.cache
+D:\DIO\Exercicio_POO\obj\Debug\net6.0\Exercicio_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\Exercicio_POO\obj\Debug\net6.0\Exercicio_POO.AssemblyInfoInputs.cache
+D:\DIO\Exercicio_POO\obj\Debug\net6.0\Exercicio_POO.AssemblyInfo.cs
+D:\DIO\Exercicio_POO\obj\Debug\net6.0\Exercicio_POO.csproj.CoreCompileInputs.cache
+D:\DIO\Exercicio_POO\obj\Debug\net6.0\Exercicio_POO.dll
+D:\DIO\Exercicio_POO\obj\Debug\net6.0\refint\Exercicio_POO.dll
+D:\DIO\Exercicio_POO\obj\Debug\net6.0\Exercicio_POO.pdb
+D:\DIO\Exercicio_POO\obj\Debug\net6.0\Exercicio_POO.genruntimeconfig.cache
+D:\DIO\Exercicio_POO\obj\Debug\net6.0\ref\Exercicio_POO.dll
