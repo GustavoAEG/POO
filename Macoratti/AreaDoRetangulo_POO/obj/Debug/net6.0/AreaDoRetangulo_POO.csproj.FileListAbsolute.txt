@@ -1,0 +1,15 @@
+D:\DIO\Macoratti\AreaDoRetangulo_POO\bin\Debug\net6.0\AreaDoRetangulo_POO.exe
+D:\DIO\Macoratti\AreaDoRetangulo_POO\bin\Debug\net6.0\AreaDoRetangulo_POO.deps.json
+D:\DIO\Macoratti\AreaDoRetangulo_POO\bin\Debug\net6.0\AreaDoRetangulo_POO.runtimeconfig.json
+D:\DIO\Macoratti\AreaDoRetangulo_POO\bin\Debug\net6.0\AreaDoRetangulo_POO.dll
+D:\DIO\Macoratti\AreaDoRetangulo_POO\bin\Debug\net6.0\AreaDoRetangulo_POO.pdb
+D:\DIO\Macoratti\AreaDoRetangulo_POO\obj\Debug\net6.0\AreaDoRetangulo_POO.csproj.AssemblyReference.cache
+D:\DIO\Macoratti\AreaDoRetangulo_POO\obj\Debug\net6.0\AreaDoRetangulo_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\Macoratti\AreaDoRetangulo_POO\obj\Debug\net6.0\AreaDoRetangulo_POO.AssemblyInfoInputs.cache
+D:\DIO\Macoratti\AreaDoRetangulo_POO\obj\Debug\net6.0\AreaDoRetangulo_POO.AssemblyInfo.cs
+D:\DIO\Macoratti\AreaDoRetangulo_POO\obj\Debug\net6.0\AreaDoRetangulo_POO.csproj.CoreCompileInputs.cache
+D:\DIO\Macoratti\AreaDoRetangulo_POO\obj\Debug\net6.0\AreaDoRetangulo_POO.dll
+D:\DIO\Macoratti\AreaDoRetangulo_POO\obj\Debug\net6.0\refint\AreaDoRetangulo_POO.dll
+D:\DIO\Macoratti\AreaDoRetangulo_POO\obj\Debug\net6.0\AreaDoRetangulo_POO.pdb
+D:\DIO\Macoratti\AreaDoRetangulo_POO\obj\Debug\net6.0\AreaDoRetangulo_POO.genruntimeconfig.cache
+D:\DIO\Macoratti\AreaDoRetangulo_POO\obj\Debug\net6.0\ref\AreaDoRetangulo_POO.dll
